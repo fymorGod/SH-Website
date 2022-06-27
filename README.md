@@ -13,6 +13,14 @@
 * passo 3: executar no terminal -> npm run dev ou yarn dev 
 * passo 4: criar sua branch no projeto
 
+### Padrão dos commits
+
+* Nosso padrão para os commits, segue este modelo
+
+  " O que está sendo feito - versão - o que foi feito"
+
+  exemplo: "Atualização Readme - v1.0.0 - Inserido as funcionalidades do formulário".
+
 
 ### Comandos básicos GIT
 # Inicializar o projeto com o Git
